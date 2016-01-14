@@ -1,0 +1,7 @@
+**/node_modules
+**/*.html
+**/*.css
+**/*.js
+!plugins/**/*Gulpfile.js
+public/templates.json
+public/plugins.json

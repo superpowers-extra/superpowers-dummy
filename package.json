@@ -1,0 +1,8 @@
+{
+  "name": "superpowers-dummy",
+  "description": "A dummy system for Superpowers, the HTML5 app for real-time collaborative projects",
+  "superpowers": {
+    "systemId": "dummy",
+    "publishedPluginBundles": []
+  }
+}
